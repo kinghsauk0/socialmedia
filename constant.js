@@ -1,1 +1,2 @@
-export const DB_NAME = "kingshukmondal012345"
+ 
+ export const sanitizedDatabaseName = "kingshukmondal012345"
